@@ -19,3 +19,5 @@ Good, Very Good, Acceptable and Unacceptable.
 5) Integrating the model with the UI, which is made using Flask and Bootstrap.
 
 6) Deploy the ML web app on google cloud platform.
+
+## Note - I am working on to add the Complete end-to-end description for this project. Please stay tuned!!
